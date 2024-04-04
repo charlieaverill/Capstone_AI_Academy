@@ -8,7 +8,7 @@ We are looking for an acurracy higher than 80% and less than 5% of false negatti
 
 Metrics to measure the model results:
 * Accuracy
-* Confusion marix
+* Confusion matrix
 
 [1] Dataset: https://www.kaggle.com/code/joshuaswords/awesome-eda-predicting-heart-disease
 
